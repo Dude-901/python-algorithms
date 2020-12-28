@@ -1,5 +1,5 @@
 # Python program for implementation of Bubble Sort 
-  
+ 
 def bubbleSort(arr): 
     n = len(arr) 
   
@@ -18,7 +18,7 @@ def bubbleSort(arr):
   
 # Driver code to test above 
 arr = [64, 34, 25, 12, 22, 11, 90] 
-  
+#excuting the function and passing an array
 bubbleSort(arr) 
   
 print ("Sorted array is:") 
